@@ -40,3 +40,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data'
+gem 'simple_token_authentication', '~> 1.0'
+
